@@ -1,0 +1,32 @@
+Difference between Active Power, Reactive Power and Apparent Power:
+https://eshop.se.com/in/blog/post/difference-between-active-power-reactive-power-and-apparent-power.html?srsltid=AfmBOorGfRMvpDiVnLnbv3kQXFAGN9SlhIOopX8sS-VjNnC7d7gIXo1E
+
+GitHub Repo:
+https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb
+
+Other Datasets:
+
+- PJM Hourly Energy Consumption Dataset
+This dataset offers hourly energy consumption data from the PJM Interconnection, a regional transmission organization in the United States. It's instrumental for developing models that predict short-term energy demand.
+https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+GitHub Repo:
+https://github.com/iamirmasoud/energy_consumption_prediction?utm_source=chatgpt.com
+
+
+- Integrated Energy Management and Forecasting Dataset
+Designed for advanced algorithmic modeling in energy management, this comprehensive dataset combines energy forecasting data with grid status information. It includes variables such as energy consumption, production, grid load, and environmental factors.
+https://ieee-dataport.org/documents/integrated-energy-management-and-forecasting-dataset?utm_source=chatgpt.com
+
+
+- Appliances Energy Prediction Dataset
+Focusing on household energy usage, this dataset encompasses variables related to home appliances, weather patterns, and environmental elements. It's particularly useful for predicting residential energy consumption. 
+
+- Energy Consumption, Generation, Prices, and Weather Dataset  
+Providing data on electrical demand, generation by type, prices, and weather conditions in Spain, this dataset is valuable for analyzing the interplay between energy consumption and external factors. 
+https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?utm_source=chatgpt.com
+
+
+- Electricity Demand Dataset
+Compiling multiple open smart meter datasets, this resource facilitates electricity demand forecasting by offering detailed consumption patterns across various regions.
+
+
